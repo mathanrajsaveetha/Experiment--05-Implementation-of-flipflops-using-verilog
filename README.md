@@ -150,8 +150,8 @@ endmodule
 ### PROGRAM 2:
 ```
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: THAMARAISELVAN V
-RegisterNumber:  212221230115
+Developed by: MATHAN RAJ E
+RegisterNumber:  212222230079
 
 module jk(q,qbar,k,j,clk);
 input j,k,clk;
@@ -178,8 +178,8 @@ endmodule
 ### PROGRAM 3:
 ```
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: THAMARAISELVAN V
-RegisterNumber:  212221230115
+Developed by: MATHAN RAJ E
+RegisterNumber:  212222230079
 
 module d(q,qbar,d1,clk);
 input d1,clk;
@@ -209,8 +209,8 @@ endmodule
 ### PROGRAM 4:
 ```
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: THAMARAISELVAN V
-RegisterNumber:  212221230115
+Developed by: MATHAN RAJ E
+RegisterNumber:  212222230079
 
 module tff(t,qbar,q,clk);
 input t,clk;
